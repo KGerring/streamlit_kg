@@ -1,5 +1,7 @@
 # 🎫 Support tickets template
 
+[![FAIR checklist badge](https://fairsoftwarechecklist.net/badge.svg)](https://fairsoftwarechecklist.net/v0.2?f=21&a=21002&i=22312&r=123)
+
 A simple Streamlit app showing an internal tool that lets you create, manage, and visualize support tickets. 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://support-tickets-template.streamlit.app/)
